@@ -41,7 +41,6 @@
 
         <?php
         echo $content_for_layout;
-        echo ($_SERVER["SCRIPT_FILENAME"]);
         ?>
 
     </div>
